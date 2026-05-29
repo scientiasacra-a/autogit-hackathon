@@ -996,8 +996,8 @@
     "app_type": "github-stats-dashboard",
     "pr_number": 115,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/115",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0xcac5863da2cb196cb9069e4c2462e18c3b43bc48b1feafa2d3ad7ad3a91a13b4",
+    "vault_address": "0x399fb8D1CfCAd389527d3836167c0403fC2523e6",
+    "paid_at": "2026-05-29T16:42:53.739Z"
   }
 ]
