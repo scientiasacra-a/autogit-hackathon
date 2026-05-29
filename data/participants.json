@@ -1243,8 +1243,8 @@
     "app_type": "gani-juy",
     "pr_number": 144,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/144",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0x6b82aed2d317557e748e48d3238823d6a49f100e7e71a869ea47e0c4d3829099",
+    "vault_address": "0x1b8773Aa12041c3542aa3d34bDc72d1C4856f7f6",
+    "paid_at": "2026-05-29T18:06:50.460Z"
   }
 ]
