@@ -1272,5 +1272,18 @@
     "tx_hash": "0xd24f230d6e3df3e7d5b45436a1f09484f5a48dbe67c3189bd1a78ca49abbc86a",
     "vault_address": "0x9590d777De28dc2EB5575cdaAA0b2c2A6BABCfD7",
     "paid_at": "2026-05-29T18:12:44.849Z"
+  },
+  {
+    "entry_number": 99,
+    "github_id": 161066886,
+    "github_login": "hilmanzakarya",
+    "github_avatar": "https://avatars.githubusercontent.com/u/161066886?v=4",
+    "template_title": "Sovereign Sentinel — Omnichain Liquidity & Autonomous Risk Agent",
+    "app_type": "sovereign-sentinel-risk-agent",
+    "pr_number": 149,
+    "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/149",
+    "tx_hash": null,
+    "vault_address": null,
+    "paid_at": null
   }
 ]
