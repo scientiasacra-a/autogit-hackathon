@@ -1165,8 +1165,8 @@
     "app_type": "syks-kek",
     "pr_number": 138,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/138",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0x078c304dbc41a6810db91c94ded79137a521c5f4871f436d2bfe075cb57160b2",
+    "vault_address": "0x91d91Ac3E8E6Aa7d1D18aA9371dBfDD858Fa06b7",
+    "paid_at": "2026-05-29T17:52:36.035Z"
   }
 ]
